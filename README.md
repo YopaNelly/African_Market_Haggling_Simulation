@@ -1,6 +1,6 @@
 # African Market Haggling Simulation
 
-A multi-agent negotiation simulation built with Python and Streamlit, developed as an academic assignment on Intelligent Agents. Two BDI (Belief-Desire-Intention) agents — a Seller and a Buyer — negotiate the price of everyday goods in a West African market setting. Every decision is deterministic and logic-driven, and you can watch the entire negotiation unfold live, step by step, directly in the browser.
+A multi-agent negotiation simulation built with Python and Streamlit, developed as an academic assignment on Intelligent Agents. Two BDI (Belief-Desire-Intention) agents — a Seller and a Buyer negotiate the price of everyday goods in a West African market setting. Every decision is deterministic and logic-driven, and you can watch the entire negotiation unfold live, step by step, directly in the browser.
 
 ---
 
@@ -112,7 +112,7 @@ Open your browser at `http://localhost:8501`.
 
 ## Deployment on Hugging Face Spaces
 
-This app is ready to deploy on [Hugging Face Spaces](https://huggingface.co/spaces) with the Streamlit SDK.
+This app is ready to deploy on [Hugging Face Spaces](https://huggingface.co/spaces/yopanelly/market-haggling-sim) with the Streamlit SDK.
 
 1. Create a new Space on Hugging Face and select **Streamlit** as the SDK.
 2. Upload `app.py` and `requirements.txt` to the Space repository.
@@ -145,4 +145,4 @@ The collapsible "Agent Architecture Explained" section inside the app maps every
 ## Author
 
 Built by **Yopa Nelly**
-Academic assignment — Intelligent Agents course
+Academic assignment Intelligent Agents course
